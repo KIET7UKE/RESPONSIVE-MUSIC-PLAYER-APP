@@ -1,3 +1,4 @@
 # RESPONSIVE-MUSIC-PLAYER-APP
 
-![Screenshot (598)](https://user-images.githubusercontent.com/76551267/148949609-e7fcaa68-f903-4aeb-898b-d0a91b933a7c.png)
+
+![Screenshot (575)](https://user-images.githubusercontent.com/76551267/149613969-679c9a67-f6a5-4025-97b3-c3fc8891a863.png)
